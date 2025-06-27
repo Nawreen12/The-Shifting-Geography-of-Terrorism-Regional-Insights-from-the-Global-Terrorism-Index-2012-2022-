@@ -1,4 +1,4 @@
-# The Shifting Geography of Terrorism: Regional Insights from the Global Terrorism Index (2012–2022)
+# The Shifting Geography of Terrorism: Regional Analysis from the Global Terrorism Index (2012–2022)
 
 Terrorism has been one of the pressing issues in the era of 21st century. The term “terrorism”, in the broadest sense, is the use of intentionally indiscriminate violence as a means to create fear or terror, to achieve any political, religious, or ideological aim. Though the terms "terrorist" and "terrorism" originated during the French Revolution of the late 18th century, it gained popularity during the U.S. Presidency of Ronald Reagan (1981–89) after the Beirut barracks bombings in 1983 and again after the attacks on New York City and Washington, D.C. in September 2001 and also the attack on Bali in October 2002.
 This project is a comprehensive data analysis based on the Global Terrorism Index dataset. The primary aim was to identify regional risks and key trends in global terrorism incidents among top ten countries over the period 2012–2022.
